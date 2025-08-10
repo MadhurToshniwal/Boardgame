@@ -7,7 +7,8 @@ Complete DevOps Structure PipeLine
 
 **Creating AWS Instances and Network Environment 
 **
-<img width="1908" height="968" alt="image" src="https://github.com/user-attachments/assets/228f3e10-0e3c-4362-a5fe-245c5ab68020" />
+![WhatsApp Image 2025-08-08 at 23 54 19_a211e9db](https://github.com/user-attachments/assets/c18e2e33-9b54-47e9-94c7-7b9627595e66)
+
 
 Using MobaXterm Software 
 for : ( Master , Slave  , Jenkins , Nexus , SonarQube  and Required virtual Machines 
