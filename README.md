@@ -42,7 +42,8 @@ Creating a Git Repository
 
 **CI/CD Deployment 
 **
-<img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/90169feb-d031-4645-839e-c7a82b588c17" />
+![WhatsApp Image 2025-08-09 at 00 00 08_cd0842da](https://github.com/user-attachments/assets/a8f2374f-142d-4060-90e1-40336a43b80d)
+
 
 
 <img width="425" height="869" alt="image" src="https://github.com/user-attachments/assets/f5d69aa6-6538-4e69-ab4b-7fdd562bcf15" />
