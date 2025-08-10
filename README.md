@@ -12,10 +12,12 @@ Complete DevOps Structure PipeLine
 
 Using MobaXterm Software 
 for : ( Master , Slave  , Jenkins , Nexus , SonarQube  and Required virtual Machines 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/94a1d0a8-40f8-4fd6-a43c-1bb057280add" />
+![WhatsApp Image 2025-08-08 at 23 55 12_c0f86b4d](https://github.com/user-attachments/assets/5dfa35e2-90d3-44a3-9f4b-e7dbaefe23e8)
 
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/96a25d4d-ef0c-47f7-92c8-2d6a15252e1b" />
+
+![WhatsApp Image 2025-08-08 at 23 56 44_3238d4be](https://github.com/user-attachments/assets/784ed818-5719-4395-a361-952eb46cd792)
+
 
 Creating a Git Repository 
 
