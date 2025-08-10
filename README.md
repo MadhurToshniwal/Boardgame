@@ -56,7 +56,8 @@ Creating a Git Repository
 **Email - Notification 
 **
 
-![WhatsApp Image 2025-08-04 at 17 45 54_e36658ab](https://github.com/user-attachments/assets/2d0b3ddb-03aa-44fd-8b23-264612356584)
+![WhatsApp Image 2025-08-09 at 00 16 40_91374511](https://github.com/user-attachments/assets/7b7032b8-6a7b-42d3-a15b-654782f00103)
+
 
 
 Web-Application 
