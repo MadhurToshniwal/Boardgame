@@ -32,7 +32,9 @@ Creating a Git Repository
 
 **SonarQube Analysis 
 **
-![WhatsApp Image 2025-08-08 at 23 59 21_4b423ffc](https://github.com/user-attachments/assets/794ddfb5-08b3-4507-8cae-59d39b28c600)
+<img width="1916" height="970" alt="image" src="https://github.com/user-attachments/assets/cc09eae7-9e21-4b44-a38e-c9437eb62188" />
+
+
 
 
 **Nexus Repository 
