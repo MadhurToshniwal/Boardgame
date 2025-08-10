@@ -23,15 +23,17 @@ Creating a Git Repository
 
 **Encorporating the CI/CD Pipe Lines 
 **
-<img width="1918" height="1023" alt="image" src="https://github.com/user-attachments/assets/970bd0c9-e91f-42a9-804b-803a4dd95935" />
+![WhatsApp Image 2025-08-08 at 23 57 21_7627f778](https://github.com/user-attachments/assets/9197e62c-c3ae-4c18-af4f-ee64fe744a24)
 
 
-<img width="1913" height="513" alt="image" src="https://github.com/user-attachments/assets/1528f30f-7b75-4ddc-9b98-9987aea5adea" />
+
+![WhatsApp Image 2025-08-08 at 23 58 02_0642e8ad](https://github.com/user-attachments/assets/28939f63-4985-434c-92c9-d4dcdf6455fe)
 
 
 **SonarQube Analysis 
 **
-<img width="1916" height="970" alt="image" src="https://github.com/user-attachments/assets/cc09eae7-9e21-4b44-a38e-c9437eb62188" />
+![WhatsApp Image 2025-08-08 at 23 59 21_4b423ffc](https://github.com/user-attachments/assets/794ddfb5-08b3-4507-8cae-59d39b28c600)
+
 
 **Nexus Repository 
 **
